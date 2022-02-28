@@ -1,2 +1,3 @@
 tengo una duda sobre javascript, que cuando hago una prueba me devuelve undefined deepEquap "oro" por ejemplo, si hago medallaSegunPuesto(1), no entiendo que es este error asi que si me pueden explicar que es y que esta mal se lo agradecería. Básicamente tengo que pasar por parámetro un puesto y la función tiene que devolverme la medalla que corresponda
 medallas a los puestos
+Tienes que tener en cuenta que un Array comienza a contar desde la posición 0, y desde ahí va sumando. Por tanto, dentro de tu puesto, tienes que tener en cuenta que al valor que añadas, tienes que restarle 1
