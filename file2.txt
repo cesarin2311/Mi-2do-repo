@@ -1,1 +1,2 @@
 Creo que te estabas complicando un poco. Se puede simplificar el problema usando el número que se entrega como parámetro de entrada a la función para acceder directamente al array y restarle a este uno ya que las posiciones de un array comienzan en 0.
+respuesta agragada
